@@ -1,4 +1,4 @@
-package com.bootcamp.PytoS2_CreditPerson;
+package com.bootcamp.PytoS2_AssetsPerson;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
